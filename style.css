@@ -947,3 +947,26 @@ margin-top: -430px;
     display: inline-block;
   margin-top: 18px;
 }
+@media screen and (min-width: 200px) {
+  .header {
+    width: 1536px;
+  }
+  .product-page {
+    width: 1536px;
+  }  
+  .part3{
+width: 1536px;
+  }
+  .part4{
+    width: 1536px;
+  }
+  .banner1{
+    width: 473px;
+  }
+  .banner2seconddiv{
+    width: 1092px;
+  }
+  .fullbox{
+    width: 845px;
+  }
+}
